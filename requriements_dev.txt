@@ -8,3 +8,4 @@ pytest_
 black
 flake8
 mypy
+-e .
